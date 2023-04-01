@@ -3,7 +3,7 @@
 <p>👀 I’m interested in cooking</p>
 <p>🌱 I’m currently learning Java, Python and Cpp</p>
 <p>📫 How to reach me: cc1515781862@163.com</p>
-<p>📖 My blog: <a hef="https://rc-kanashii.top/">RC Kanashii's Blog</a></p>
+<p>📖 My blog: [RC Kanashii's Blog](https://rc-kanashii.top/)</p>
 
 <br><br>
 
